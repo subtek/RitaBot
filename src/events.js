@@ -76,7 +76,7 @@ exports.listen = function listen (client)
 
          client.user.setPresence({
             "activity": {
-               "name": "ritabot.gg | !tr help",
+               "name": "C-3PO Translate",
                "type": "PLAYING"
             },
             "status": "online"
